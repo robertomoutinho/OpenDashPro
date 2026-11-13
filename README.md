@@ -2,6 +2,8 @@
 
 Alternative firmware for the **DashPro** dashboard display, plus **OpenDashPro Studio**, a desktop app for designing your own screens and installing them on the dash over USB.
 
+![OpenDashPro running on a DashPro: shift light, RPM, speed, temperature and pressure bars, lambda, boost gauge](images/dash.jpg)
+
 > **Experimental, unofficial software. Read [SAFETY.md](SAFETY.md) before using it in a vehicle.**
 > Not affiliated with or endorsed by the maker of the DashPro.
 
